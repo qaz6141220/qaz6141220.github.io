@@ -1,0 +1,149 @@
+html{
+     overflow-y: scroll;
+}
+.a{
+    margin-left: 50px;
+    width: 80px;
+    height: 90px;
+}
+.blackpinkmark{
+    margin-top: 20px;
+    width: 120px;
+    height: 50px;
+}
+.c{
+    display: flex; /* 讓項目水平排列 */
+    margin-top: 400px;
+}
+.e{
+    margin-bottom: 100px;
+    border-color: rgba(235, 243, 243, 0.315);
+}
+.f{
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 29.5px;
+    margin-left: 6px;
+}
+.g{
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 29.5px;
+    margin-left: 17px;
+    
+}
+.myvideo1{
+    position: absolute;
+    margin-bottom: 300px;
+    top: 0;
+}
+.background{
+    overflow: hidden;
+}
+.fashion{
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 29.5px;
+    margin-left: 1px;
+}
+.dropbtn1{
+    background-color: rgb(4, 3, 3);
+    color: #FFC0CB;
+    padding: 16px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 13.5px;
+    border: none;
+    cursor: pointer;
+}
+.dropdown1{
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content1{
+    display: none;
+    position: absolute;
+    background-color: #010101;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(187, 66, 66, 0.2);
+    z-index: 1;
+}
+.dropdown-content1 a{
+    color: rgb(131, 81, 81);
+    padding: 6px 8px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content1 a:hover{
+    background-color: #424141
+} 
+.dropdown1:hover .dropdown-content1{
+    display: block;
+} 
+.dropdown1:hover .dropbtn1{
+    background-color: #030303;
+}
+/* ///////////////////////////////////////////////////////////// */
+.dropbtn2{
+    background-color: rgb(4, 3, 3);
+    color: #FFC0CB;
+    padding: 16px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 13.5px;
+    border: none;
+    cursor: pointer;
+}
+.dropdown2{
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content2{
+    display: none;
+    position: absolute;
+    background-color: #010101;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(187, 66, 66, 0.2);
+    z-index: 1;
+}
+.dropdown-content2 a{
+    color: rgb(131, 81, 81);
+    padding: 6px 8px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content2 a:hover{
+    background-color: #424141
+} 
+.dropdown2:hover .dropdown-content2{
+    display: block;
+} 
+.dropdown2:hover .dropbtn1{
+    background-color: #030303;
+}
+.smalltitle1{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    margin-top :-80px;
+}
+.Groupphoto{
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.myvideo2{
+    width: 350px;
+    height: 600px;
+    margin-left: 1130px;
+    margin-top: -1000px;
+    margin-bottom: 100px;
+    border: 1px solid #424141;
+    padding-bottom: 3px; 
+}
+.aside{
+    bottom: 10px;
+}
+.wikitable{
+    border: 1px solid #a2a9b1;
+    border-collapse: collapse;
+}
